@@ -18,15 +18,47 @@ Actualmente vivo en Valencia y estoy realizando una transición profesional desd
 
 ### Jnana Kanda Tradition
 
-Plataforma digital multilingüe de reservas de servicios, membresías y venta de productos desarrollado con WordPress y Elementor.
+![Jnana Kanda](images/jnanakandatradition-en-home-2026-06-08-18_25_03.png)
+
+Sitio web multilingüe desarrollado con WordPress y Elementor.
+
+**Tecnologías utilizadas:**
+- WordPress
+- Elementor Pro
+- WooCommerce
+- Amelia
+- MemberPress
+- CSS personalizado
+- Sitio multilingüe
+
+---
 
 ### Senses Pod
 
-Desarrollo y personalización web utilizando WordPress.
+![Senses Pod](images/sensespod-2026-06-08-18_27_04.png)
+
+Diseño y desarrollo web utilizando WordPress y Elementor.
+
+**Tecnologías utilizadas:**
+- WordPress
+- Elementor Pro
+- Bookly
+- HTML
+- CSS
+
+---
 
 ### In Room Spa
 
-Diseño y desarrollo web para servicios de bienestar.
+![In Room Spa](images/in-room-spa-2026-06-08-18_27_54.png)
+
+Sitio web para servicios de bienestar y reservas.
+
+**Tecnologías utilizadas:**
+- WordPress
+- Elementor Pro
+- Acuity Scheduling
+- CSS personalizado
 
 ## 📚 Actualmente aprendiendo
 
