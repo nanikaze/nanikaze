@@ -1,16 +1,41 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**nanikaze/nanikaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Daniela.
 
-Here are some ideas to get you started:
+Actualmente vivo en Valencia y estoy realizando una transición profesional desde la hostelería hacia el desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías
+
+* WordPress
+* Elementor
+* HTML
+* CSS
+* Git
+* GitHub
+* JavaScript (en aprendizaje)
+
+## 💼 Proyectos
+
+### Jnana Kanda Tradition
+
+Plataforma digital multilingüe de reservas de servicios, membresías y venta de productos desarrollado con WordPress y Elementor.
+
+### Senses Pod
+
+Desarrollo y personalización web utilizando WordPress.
+
+### In Room Spa
+
+Diseño y desarrollo web para servicios de bienestar.
+
+## 📚 Actualmente aprendiendo
+
+* JavaScript
+* PHP para WordPress
+* Desarrollo Frontend
+
+## 📫 Contacto
+
+LinkedIn: https://www.linkedin.com/in/daniela-rodriguez-rieumont/
+
+Email: danielarguez95@gmail.com
