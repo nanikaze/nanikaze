@@ -1,8 +1,18 @@
 # ¡Hola! 👋
 
-Soy Daniela.
+Soy Daniela Rodríguez.
 
-Actualmente vivo en Valencia y estoy realizando una transición profesional desde la hostelería hacia el desarrollo web.
+WordPress Developer & Web Designer en transición profesional hacia el desarrollo web a tiempo completo.
+
+Tengo experiencia desarrollando sitios web reales con WordPress, Elementor, WooCommerce y CSS personalizado.
+
+Actualmente estoy ampliando mis conocimientos en JavaScript, Git y PHP para WordPress.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanikaze&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanikaze&layout=compact)
 
 ## 🚀 Tecnologías
 
